@@ -1,0 +1,10 @@
+All participating teams will compete their sumo-bots
+
+They will be judged based on:
+  - Functional robot   []
+  - Aggression         []
+  - Win/Loss           []
+  - etc...?
+
+Team will be composed of 2-3 individuals who will
+  design, build, and program their respective robots.
